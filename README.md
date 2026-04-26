@@ -2,12 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Kotlin and XML</b>
-  - [Practicing Making Apps using Kotlin and XML](https://github.com/KisekeDM/FARMFLOW)
-- <b>JAVA</b>
-  - [FlappyBird](https://github.com/KisekeDM/FlappyBird) 
-- <b>PYTHON</b>
-  - [CALCULATOR](https://github.com/KisekeDM/Calculator)
 
 
 
